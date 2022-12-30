@@ -1,0 +1,28 @@
+.Footer {
+	background: #1c1d1f;
+	border-top: #3e4143;
+	color:      #ffffff;
+	
+	margin-left:     auto;
+	margin-right:   auto;
+	padding-top:    70px;
+	padding-left:   80px;
+	padding-right:  30px;
+	padding-bottom: 80px;
+}
+
+.Footer .Img01 {
+	width:  200px;
+	height: 200px;
+}
+
+.Footer .Img01 a img {
+	width:  80%;
+	height: 80%;
+}
+
+.Footer .Copyright {
+	font-size: .6875rem;
+	color: #747474;
+	margin-left: 35px;
+}
